@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "classWork_7.0.0"
